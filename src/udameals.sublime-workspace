@@ -1,0 +1,1191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"composeEnhancers"
+			],
+			[
+				"in",
+				"initialState"
+			],
+			[
+				"ge",
+				"generateShoppingList"
+			],
+			[
+				"Sho",
+				"shoppinglist"
+			],
+			[
+				"cont",
+				"contentLabel"
+			],
+			[
+				"close",
+				"closeIngredientsModal"
+			],
+			[
+				"ingre",
+				"ingredientsModalOpen"
+			],
+			[
+				"ca",
+				"capitalize"
+			],
+			[
+				"redu",
+				"reducer"
+			],
+			[
+				"Hello",
+				"HelloWorld"
+			],
+			[
+				"Hom",
+				"Homesearch"
+			],
+			[
+				"fetch",
+				"fetchEvents"
+			],
+			[
+				"even",
+				"eventData"
+			],
+			[
+				"resp",
+				"respJson"
+			],
+			[
+				"cur",
+				"curPlace"
+			],
+			[
+				"curPla",
+				"curPlaceList"
+			],
+			[
+				"google",
+				"Google"
+			],
+			[
+				"goo",
+				"googleLoad"
+			],
+			[
+				"Addre",
+				"AddressBook"
+			],
+			[
+				"zoma",
+				"zomatoId"
+			],
+			[
+				"get",
+				"getZomatoDetail"
+			],
+			[
+				"zo",
+				"zomatoId"
+			],
+			[
+				"ma",
+				"markers"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pri",
+				"priority"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"edit",
+				"editName"
+			],
+			[
+				"edi",
+				"editCounter"
+			],
+			[
+				"obser",
+				"observableArray"
+			],
+			[
+				"img",
+				"imgAttribution"
+			],
+			[
+				"click",
+				"clickCount"
+			],
+			[
+				"ren",
+				"renderCat"
+			],
+			[
+				"set",
+				"setCurCat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"getPi",
+				"getPizzaOffsetWidth"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"W",
+				"WorkerException"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"top",
+				"top-news"
+			],
+			[
+				"hea",
+				"header__title"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"is",
+				"isClicked"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fotn",
+				"font-family"
+			],
+			[
+				"sec",
+				"section-container"
+			],
+			[
+				"s",
+				"section-container"
+			],
+			[
+				"wor",
+				"work_with_us"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"sid",
+				"sidebar"
+			],
+			[
+				"header-",
+				"header-list-item"
+			],
+			[
+				"conta",
+				"contactus-form"
+			],
+			[
+				"con",
+				"content-container"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ce",
+				"center-title"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"a",
+				"allEnemies"
+			],
+			[
+				"all",
+				"allStars"
+			],
+			[
+				"spar",
+				"sparkleNum"
+			],
+			[
+				"sp",
+				"sparkleNum"
+			],
+			[
+				"im",
+				"imgSource"
+			],
+			[
+				"start",
+				"startPlay"
+			],
+			[
+				"col",
+				"colUnit"
+			],
+			[
+				"row",
+				"rowUnit"
+			],
+			[
+				"e",
+				"enemy2"
+			],
+			[
+				"ene",
+				"enemy1"
+			],
+			[
+				"o",
+				"originalImgs"
+			],
+			[
+				"re",
+				"remainedAdded"
+			],
+			[
+				"curr",
+				"currentProductType"
+			],
+			[
+				"pr",
+				"productType"
+			],
+			[
+				"pro",
+				"ProductId"
+			],
+			[
+				"or",
+				"originalImgs"
+			],
+			[
+				"remove",
+				"removePrint"
+			],
+			[
+				"ade",
+				"addedImgs"
+			],
+			[
+				"currentPro",
+				"currentProduct"
+			],
+			[
+				"currentProduct",
+				"currentProductType"
+			],
+			[
+				"added",
+				"addedImgs"
+			],
+			[
+				"Pr",
+				"ProductId"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"sta",
+				"standardPrintId"
+			],
+			[
+				"ad",
+				"addedImgs"
+			],
+			[
+				"curren",
+				"currentPrints"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/App.jsx",
+			"settings":
+			{
+				"buffer_size": 1054,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/HelloWorld.jsx",
+			"settings":
+			{
+				"buffer_size": 590,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/App.js",
+			"settings":
+			{
+				"buffer_size": 5870,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/actions/index.js",
+			"settings":
+			{
+				"buffer_size": 144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/Projects.jsx",
+			"settings":
+			{
+				"buffer_size": 2753,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 993,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/main.js",
+			"settings":
+			{
+				"buffer_size": 985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/hello_world/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 105,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/reducers/index.js",
+			"settings":
+			{
+				"buffer_size": 1534,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reducers/index.js",
+			"settings":
+			{
+				"buffer_size": 1331,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ivyfu/Documents/working/rails-react/react-on-rails",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers/api",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers/api/v1",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/hello_world",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/layouts",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/projects",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/actions",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/containers",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/reducers",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/config",
+		"/Users/ivyfu/Documents/working/study/Udacity/React",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/public",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/actions",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/components",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/reducers",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/utils",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/actions",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/home",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/reducers"
+	],
+	"file_history":
+	[
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/HelloWorld.jsx",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/index.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/components/App.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/utils/api.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/components/shoppinglist.jsx",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/components/foodlist.jsx",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/reducers/index.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/public/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/index.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/package.json",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/actions/index.js",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/App.jsx",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/reducers/index.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/main.js",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/package.json",
+		"/Users/ivyfu/Documents/working/study/Udacity/React/udacity-meals/src/utils/helpers.js",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers/api/v1/projects_controller.rb",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/hello_world/index.html.erb",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/Hello.jsx",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/Nav.jsx",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/startup/registration.jsx",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/Gemfile.lock",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/Gemfile",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/config/routes.rb",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers/application_controller.rb",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers/hello_world_controller.rb",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/controllers/api/v1/base_controller.rb",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/layouts/hello_world.html.erb",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/home/events.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/reducers/index.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/server/server.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/home/sellwithus.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/actions/eventActions.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/home/home.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/server/requestHandler.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/server/views/index.ejs",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/home/homesearch.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/actions/listingsActions.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/store/store.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/reducers/listingsReducer.js",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/docker-compose.yml",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/package.json",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/listings/listings.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/index.html",
+		"/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/components/home/event.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/components/home/sellwithus.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/components/home/homesearch.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/components/application/footer.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/package.json",
+		"/Users/ivyfu/Documents/working/iTicket/Site/.gitignore",
+		"/Users/ivyfu/Documents/working/iTicket/Site/Gruntfile.js",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/components/application/header.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/dist/index.html",
+		"/Users/ivyfu/Documents/working/iTicket/Site/docker-compose.yml",
+		"/Users/ivyfu/Documents/working/iTicket/Site/webpack.config.js",
+		"/Users/ivyfu/Documents/working/iTicket/Site/npm-debug.log",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/styles/header.less",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/views/application/application.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/views/application/header.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/views/home/home.jsx",
+		"/Users/ivyfu/Documents/working/iTicket/Site/src/views/about/about.jsx",
+		"/Users/ivyfu/Documents/working/study/AMP/first-amp/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/study/todo-redux/index.html",
+		"/Users/ivyfu/Documents/working/study/redux/redux/examples/todos/src/components/App.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/P7_Neighborhood Map/js/app.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/P7_Neighborhood Map/js/app1.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/P7_Neighborhood Map/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L38_Write-Test-Suit/ud549/spec/PlayerSpec.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L38_Write-Test-Suit/ud549/src/Contact.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L38_Write-Test-Suit/ud549/spec/AddressBookSpec.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L38_Write-Test-Suit/ud549/src/AddressBook.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L38_Write-Test-Suit/ud549/SpecRunner.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/cat-clicker/js/app.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/cat-clicker/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L32_21_Searchbox/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/P7_Neighborhood Map/css/style.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/P7_Neighborhood Map/README.md",
+		"/Users/ivyfu/Documents/working/study/Udacity/cat-clicker/css/style.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-07_Markers_Infowindows 1/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/P7_Neighborhood Map/css/narrow-screen.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/pizza-perf-master.zip",
+		"/Users/ivyfu/Documents/working/study/Udacity/L32_10_MyCommuteDistanceMatrixAPIL/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L32_06_GeocodingInTheApp/example.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L32_06_GeocodingInTheApp/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L32_07_Geocoding-Responses/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-17_Drawing-Polygon/example.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31_GeocodingInTheApp/example.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-14_Pitch_Heading/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-08_Markers_Infowindows 2/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-12_StaticMapsAndStreetViewImagery/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-API-HelloWorld/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L31-07_Markers_Infowindows/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/todo-app/bower_components/todomvc-common/base.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/todo-app/js/models/todo.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/todo-app/js/views/todo-view.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/todo-app/index.html",
+		"/Users/ivyfu/Downloads/cat-clicker-master/js/app.js",
+		"/Users/ivyfu/Downloads/cat-clicker-master/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/ud989-school-attendance/js/app.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/frontend-nanodegree-resume/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/ud989-school-attendance/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/Grid-layout/test.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/Blog/Blog-one/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/views/js/main.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/minicourse-ajax-project/index.html",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/config/database.yml",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/docker-compose.yml",
+		"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/project_settings/index.html.erb",
+		"/Users/ivyfu/Documents/working/study/Udacity/L27-Closure/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/minicourse-ajax-project/js/script.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/minicourse-ajax-project/css/style.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/css/style.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/views/css/style.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/views/pizza.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/README.md",
+		"/Users/ivyfu/Documents/working/study/Udacity/P6-Website-Optimization/README-Introduction.md",
+		"/Users/ivyfu/Documents/working/study/Udacity/L23-news-aggregator-master/news-aggregator/scripts/app.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L23-news-aggregator-master/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/L23-news-aggregator-master/styles/app.css",
+		"/Users/ivyfu/Documents/working/study/Udacity/L23-news-aggregator-master/scripts/app.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L22-pizza-perf-master/js/main.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/L22-pizza-perf-master/pizza.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/udacity/web-workers/scripts/worker.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/qrcode-slow/app/scripts/jsqrcode/qrworker.js",
+		"/Users/ivyfu/Documents/working/study/Udacity/qrcode-slow/app/index.html",
+		"/Users/ivyfu/Documents/working/study/Udacity/box-recalc-style-slow.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr",
+			"/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/config",
+			"/Users/ivyfu/Documents/working/medscreen/medscreen",
+			"/Users/ivyfu/Documents/working/medscreen/original/medscreen",
+			"/Applications/XAMPP/xamppfiles/htdocs/hemisphere/ClassicArcadeGameClone/js",
+			"/Applications/XAMPP/xamppfiles/htdocs/hemisphere/kodak/KAKE/KAKE-Application/src/app/shared",
+			"/Applications/XAMPP/xamppfiles/htdocs/hemisphere/kodak/KAKE/KAKE-Application/src/styles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			",\n",
+			"()\n",
+			"authenticate_user",
+			"puma",
+			")\n",
+			"markers",
+			"map",
+			"place",
+			"res_id",
+			"curPlace",
+			"markers",
+			"this",
+			"placeMarkers",
+			"hideListings",
+			"getStreetView",
+			"visible",
+			"label",
+			"counter",
+			"getCat",
+			"getCurCounter",
+			"setCounter",
+			";\n",
+			"NULL",
+			"\\N",
+			"selena@hmsnz.com",
+			"pizzaElementGenerator",
+			"pizzabox ",
+			"pizza",
+			"mover",
+			"movingPizzas",
+			"open sans",
+			"open",
+			"open sans",
+			"colorizeAndScaleStories",
+			"getBoundingClientRect",
+			"main",
+			"colorizeAndScaleStories",
+			"detectQRCode",
+			"setInterval",
+			"content",
+			"nav",
+			"id=\"about\"",
+			".contact",
+			"bg-image",
+			"container",
+			"'",
+			"home-logo-phrase",
+			"tablet-sub-text",
+			"tablet-data-container",
+			"bg-image",
+			"quotes",
+			"qutoes",
+			"tablet-data",
+			"tablet-data-container",
+			"large",
+			"font-size",
+			"font-size:large;",
+			"font-size: large;",
+			".msg-under-lineitem",
+			"h4.msg-under-lineitem.center-title",
+			" current",
+			">\n",
+			"privacy-and-confidentiality",
+			"about",
+			"VAGRoundedStd-Light",
+			"sidebarBox",
+			"insurance",
+			"#tablet",
+			"#branding",
+			"faqs",
+			"medscreen.css",
+			"VAGRoundedStd-Light",
+			"\"></",
+			"jsx",
+			"load",
+			"new Promise",
+			"Promise",
+			"dialog_top_spacing",
+			"currentProductId",
+			"quantity_changed",
+			"new_prints",
+			"printstore",
+			"data.currentPrints",
+			"isInOriginal",
+			"print-add-sizes",
+			"view-content",
+			"print-size-dialog",
+			"cartstore",
+			"getSizeDialog",
+			"showSizeDialog",
+			"removePrint",
+			"REMOVE_PRINT",
+			"removePrint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self",
+			"clickCount",
+			"DEFAULT",
+			"Default",
+			"NULL",
+			"toggle",
+			"security-and-compliance",
+			"VAGRoundedStd-Thin",
+			"corporate-info",
+			"insurance"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/App.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/HelloWorld.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5865,
+								5865
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/actions/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/components/Projects.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1901,
+								1901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/ivyfu/Documents/working/iTicket/iticket-hmsnz.iticket-react-webapp/src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/app/views/hello_world/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/ivyfu/Documents/working/rails-ivr/rails-ivr/client/app/bundles/HelloWorld/reducers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "reducers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "udameals.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
